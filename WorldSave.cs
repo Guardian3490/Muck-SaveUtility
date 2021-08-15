@@ -198,7 +198,8 @@ namespace SaveUtility
                 }
             }
 
-            var repairComponents = (Component[])typeof(Boat).GetField("repairs", flags).GetValue(Boat.Instance);
+            //var repairComponents = (Component[])typeof(Boat).GetField("repairs", flags).GetValue(Boat.Instance);
+            var repairComponents = Boat.Instance.repairs;
 
             foreach (RepairInteract repair in repairComponents)
             {
