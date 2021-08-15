@@ -1,6 +1,9 @@
 # Muck-SaveUtility
 Save/Load mod for Muck that works.
 
+# 99.9% of this code is Flarfo's
+https://github.com/flarfo/Muck-SaveUtility
+
 ## Installation
 
 Visit: https://muck.thunderstore.io/package/BepInEx/BepInExPack_Muck/ and download the latest release.
