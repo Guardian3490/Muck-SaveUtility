@@ -1,8 +1,5 @@
 # Muck-SaveUtility
-Save/Load mod for Muck that works.
-
-# 99.9% of this code is Flarfo's
-https://github.com/flarfo/Muck-SaveUtility
+Save/Load mod for Muck
 
 ## Installation
 
